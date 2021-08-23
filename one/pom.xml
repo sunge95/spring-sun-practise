@@ -62,7 +62,7 @@
         <dependency>
             <groupId>org.jsoup</groupId>
             <artifactId>jsoup</artifactId>
-            <version>1.11.3</version>
+            <version>1.14.2</version>
         </dependency>
 
 <!--        添加数据存储逻辑 引入mybatis三个依赖-->
